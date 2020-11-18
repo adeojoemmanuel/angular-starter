@@ -92,7 +92,7 @@
     "systemjs": "^0.20.11",
     "tslint": "~4.5.1",
     "typescript": "~2.2.2",
-    "yargs": "^7.0.2",
+    "yargs": "^16.0.0",
     "zone.js": "^0.8.5"
   },
   "devDependencies": {
