@@ -84,7 +84,7 @@
     "karma-phantomjs-launcher": "~1.0.2",
     "karma-sourcemap-loader": "^0.3.7",
     "lodash": "^4.17.4",
-    "phantomjs-prebuilt": "^2.1.14",
+    "phantomjs-prebuilt": "^2.1.15",
     "remap-istanbul": "0.9.5",
     "require-dir": "~0.3.1",
     "run-sequence": "~1.2.2",
