@@ -42,7 +42,7 @@
     "url": "https://github.com/antonybudianto/angular-starter/issues"
   },
   "dependencies": {
-    "@angular/common": "~4.0.1",
+    "@angular/common": "~19.2.16",
     "@angular/compiler": "~4.0.1",
     "@angular/core": "~4.0.1",
     "@angular/forms": "~4.0.1",
